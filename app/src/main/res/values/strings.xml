@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Calculation</string>
+    <string name="title_welcome_message">Calculation Test</string>
+    <string name="title_img_info">title img</string>
+    <string name="title_btn_message">Start Test</string>
+    <string name="title_high_score_message">Highest Score: </string>
+    <string name="question_char_equal" translatable="false">=</string>
+    <string name="question_char_answer" translatable="false">\?</string>
+    <string name="question_score">Score: %d</string>
+    <string name="question_your_answer">Your Answer:</string>
+    <string name="question_btn_1" translatable="false">1</string>
+    <string name="question_btn_2" translatable="false">2</string>
+    <string name="question_btn_4" translatable="false">4</string>
+    <string name="question_btn_5" translatable="false">5</string>
+    <string name="question_btn_7" translatable="false">7</string>
+    <string name="question_btn_8" translatable="false">8</string>
+    <string name="question_btn_clear">Clear</string>
+    <string name="question_btn_0" translatable="false">0</string>
+    <string name="question_btn_ok">OK</string>
+    <string name="question_btn_3" translatable="false">3</string>
+    <string name="question_btn_6" translatable="false">6</string>
+    <string name="question_btn_9" translatable="false">9</string>
+    <string name="win_img_message">You Win!</string>
+    <string name="win_score">New Highest Score: </string>
+    <string name="win_message">You Win!</string>
+    <string name="back_message">Back</string>
+    <string name="lose_message">You Lose!</string>
+    <string name="correct_message">Correct!Go on!</string>
+    <string name="title_btn_exit">exit</string>
+</resources>

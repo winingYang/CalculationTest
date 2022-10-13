@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">脑瓜子恢复器</string>
+    <string name="title_welcome_message">我的脑瓜子!</string>
+    <string name="title_img_info">这是图片</string>
+    <string name="title_btn_message">快进脑瓜子!</string>
+    <string name="title_high_score_message">最高分数:</string>
+    <string name="question_score">分数: %d</string>
+    <string name="question_your_answer">你的答案</string>
+    <string name="question_btn_clear">清除</string>
+    <string name="question_btn_ok">好啦</string>
+    <string name="win_img_message">好棒耶!</string>
+    <string name="win_score">恢复成功!</string>
+    <string name="win_message">好棒耶!</string>
+    <string name="back_message">返回</string>
+    <string name="lose_message">我嘞个乖乖, 你咋回事儿啊?</string>
+    <string name="correct_message">耶! 继续继续~</string>
+    <string name="title_btn_exit">退出</string>
+</resources>
